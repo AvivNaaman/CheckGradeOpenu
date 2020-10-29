@@ -2,7 +2,7 @@
 A simple python selenium program to check and alert the user when test grade is entered @ OpenU, With logging & Command line arguments configuration
 ## Dependencies
 * Python 3.6+
-* Selenium module for python
+* Selenium module for python: [How To Install?](https://selenium-python.readthedocs.io/installation.html)
 ## Usage
 ```
 py main.py main.py [-h] [--sleep SLEEP] --userName USERNAME --pwd PWD --id ID
