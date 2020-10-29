@@ -1,5 +1,5 @@
 # CheckGradeOpenu
-A simple python selenium program to check and alert the user when test grade is entered @ OpenU
+A simple python selenium program to check and alert the user when test grade is entered @ OpenU, With logging & Command line arguments configuration
 ## Dependencies
 * Python 3.6+
 * Selenium module for python
